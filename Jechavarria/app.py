@@ -6,3 +6,6 @@ if age >= 18:
     
 else:
     print("No puedes votar")
+    
+    
+    print (f"la edad ahora es {age}+10")
